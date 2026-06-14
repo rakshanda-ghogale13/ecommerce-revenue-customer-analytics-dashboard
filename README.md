@@ -59,18 +59,18 @@ The dashboard helps stakeholders monitor business performance and identify oppor
 
 ### Executive Overview
 
-![Dashboard 1](<img width="1329" height="748" alt="Dashboard 1" src="https://github.com/user-attachments/assets/d32f3e05-8b43-4570-96e1-0a0cf0cb738b" />
-)
+<img width="1329" height="748" alt="Dashboard 1" src="https://github.com/user-attachments/assets/884645c8-2651-4426-bfbf-06730004c218" />
+
 
 ### Product Analytics
 
-![Dashboard Page 2](Images/dashboard_page2.png)
+<img width="1332" height="748" alt="Dashboard 2" src="https://github.com/user-attachments/assets/d718e8ba-3d0e-4e44-8836-f8dd14caa3d5" />
 
 ---
 
 ## 🗂️ Data Model
 
-![Data Model](Images/data_model.png)
+<img width="1146" height="740" alt="Data model" src="https://github.com/user-attachments/assets/deb3b9a1-53e6-4ae0-8092-5ff78105f4a2" />
 
 ---
 
