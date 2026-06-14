@@ -72,7 +72,29 @@ The dashboard helps stakeholders monitor business performance and identify oppor
 
 <img width="1146" height="740" alt="Data model" src="https://github.com/user-attachments/assets/deb3b9a1-53e6-4ae0-8092-5ff78105f4a2" />
 
+The dashboard uses a relational model connecting:
+
+- Customers
+- Orders
+- Order Items
+- Order Payments
+- Products
+- Product Categories
+
+Relationships were designed to support efficient filtering and accurate DAX calculations.
 ---
+
+## DAX Measures Used
+
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+- Revenue per Customer
+- Revenue per Order
+- Product Categories Count
+- Average Freight Cost
+------
 
 ## 💡 Skills Demonstrated
 
