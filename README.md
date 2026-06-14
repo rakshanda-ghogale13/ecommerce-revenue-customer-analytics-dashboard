@@ -64,7 +64,7 @@ The dashboard helps stakeholders monitor business performance and identify oppor
 
 ### Product Analytics
 
-<img width="1332" height="748" alt="Dashboard 2" src="https://github.com/user-attachments/assets/d718e8ba-3d0e-4e44-8836-f8dd14caa3d5" />
+<img width="1332" height="747" alt="Dashboard 2" src="https://github.com/user-attachments/assets/41f17587-93dc-4836-a2bb-f56378e28aea" />
 
 ---
 
