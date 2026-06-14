@@ -59,7 +59,7 @@ The dashboard helps stakeholders monitor business performance and identify oppor
 
 ### Executive Overview
 
-![Dashboard Page 1](Images/dashboard_page1.png)
+![Dashboard Page 1](Dashboard 1.png)
 
 ### Product Analytics
 
